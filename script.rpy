@@ -228,7 +228,7 @@ label Go_search_for_him:
 label wait:
     "As you wait for the doctor to return, your mind races with questions about the truth behind the secret room and the organ trade.\nYou know that confronting the doctor is the only way to uncover the answers you are looking for."
     "Finally, you hear the sound of footsteps approaching, and the doctor is coming. His expression is unreadable, but you sense tension in the air as you prepare to confront him.\n
-    "'Dr. Mark'\n'What are you doing in my house? How did you manage to enter here?!'... As tension mounts, Dr. Mark tries to inject you with a syringe, but you narrowly evade it.\n Wait, wait... look, I don't know what I'm doing here. He sent me to kill you. Do you know him?"
+    'Dr. Mark'\n'What are you doing in my house? How did you manage to enter here?!'... As tension mounts, Dr. Mark tries to inject you with a syringe, but you narrowly evade it.\n Wait, wait... look, I don't know what I'm doing here. He sent me to kill you. Do you know him?"
     "What are you talking about?"
     "I'm sure that you have an idea about him, of course you have a lawyer, someone has a daughter... yes, named Henry, and you, he knows all of you.\n
     Oh well, you are talking about Mr. Kevin Mitnick. Yes, Henry told me yesterday about him. I know that he's been following me these days... but he will never catch me."
